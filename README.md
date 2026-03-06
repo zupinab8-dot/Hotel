@@ -1,4 +1,4 @@
 # Hotel
-Tema: Sistema de agendamento de hotel 
+Tema: Sistema de agendamento de venda de madeira 
 
-Bom, o sistema vai funcionar de uma forma para organizar reservas, controlar quartos, registrar clientes e gerenciar pagamentos, ajudando o hotel a funcionar de forma mais eficiente.
+Bom, o sistema vai funcionar de uma forma para organizar clientes, controlar estoque, registrar vendas e acompanhar o faturamento, tornando a gestão da empresa mais eficiente.
