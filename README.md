@@ -6,20 +6,18 @@ basicamente essa sera a atualização
 
 
 <?php
-// Sistema simples feito por iniciante
 
 $clientes = [];
 $produtos = [];
 $vendas = [];
 $faturamento = 0;
 
-// Cadastrar cliente
 $clientes[] = [
     "nome" => "João",
     "telefone" => "11999999999"
 ];
 
-// Adicionar produtos no estoque
+//
 $produtos[] = [
     "nome" => "Madeira Pinus",
     "quantidade" => 100,
@@ -32,7 +30,6 @@ $produtos[] = [
     "preco" => 70
 ];
 
-// Registrar venda
 $quantidadeVendida = 2;
 $valorVenda = $produtos[0]["preco"] * $quantidadeVendida;
 
@@ -46,7 +43,6 @@ $vendas[] = [
     "total" => $valorVenda
 ];
 
-// Mostrar resultados
 echo "<h2>Sistema de Gestão</h2>";
 
 echo "<h3>Clientes</h3>";
